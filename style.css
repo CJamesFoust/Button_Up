@@ -1,0 +1,28 @@
+#search {
+    display: block;
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+    border: 1px solid rgb(26, 159, 161);
+    color:rgb(26, 159, 161);
+    padding: 3px 30px;
+}
+
+#plus {
+    display: block;
+    background-color: rgb(0, 209, 178);
+    border-radius: 100%;
+    color: white;
+    border: 0px;
+    margin-top: 8px;
+    font-size: 15px;
+}
+
+#create_account {
+    display: block;
+    background-color: rgb(43, 120, 228);
+    border: 1px solid black;
+    margin-top: 8px;
+    color: white;
+    padding: 5px 20px;
+    box-shadow: 2px 2px black;
+}
